@@ -32,7 +32,7 @@
 				function juego_a_elegir(){
 					var genero = document.getElementById('Genero').value;
 					if (genero == "Acción") {
-						var juego = "<b>Juego</b> <select id='juego' required> <option value='DS'>Modifico este texto para realizar una prueba</option> <option value='OV'>Overwatch</option> </select>";
+						var juego = "<b>Juego</b> <select id='juego' required> <option value='DS'>Modifico este texto para realizar una segunda prueba</option> <option value='OV'>Overwatch</option> </select>";
 					}
 					if (genero == "Rol") {
 						var juego = "<b>Juego</b> <select id='juego' required> <option value='TESO'>The Elder Scrolls Online</option> <option value='GW2'>Guild Wars 2</option> </select>";
