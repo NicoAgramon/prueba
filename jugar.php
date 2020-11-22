@@ -6,7 +6,7 @@
 		<link rel=StyleSheet href="hint.css" type="text/css">
 		<style type="text/css">
 			body {
-				background: linear-gradient(to right, yellow, orange, skyblue);
+				baround: linear-gradient(to right, yellow, orange, skyblue);
 			}
 			.fieldset {
 				width: 35%;
